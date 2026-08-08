@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/clash-downloads/Clash-Download" title="Clash下载最新版下载Clash官网资源">
-  <img width="150" height="150" alt="Clash" src="https://github.com/user-attachments/assets/314d6def-9ddb-434e-a306-f0ec8f3c2d4e" />
+<img width="150" height="150" alt="Clash" src="https://github.com/user-attachments/assets/ac0c55af-a497-45a7-9b32-6da08e3fc0f5" />
 
   </a>
   <h1>Clash下载最新版下载Clash官网资源 (2026年8月更新)</h1>
